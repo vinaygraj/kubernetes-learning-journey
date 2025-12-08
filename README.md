@@ -3,6 +3,6 @@ This repository tracks my hands-on learning of kubernetes from zero to productio
 Includes daily labs, notes, and real-world backend deployments.
 
 ## Progress
-- [ ] Day 1 : Docket + Kubernetes Basics
+- [x] Day 1 : Docket + Kubernetes Basics
 - [ ] Day 2 : Pods & Deployments
 - [ ] ...
