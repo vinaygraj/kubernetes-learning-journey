@@ -4,5 +4,5 @@ Includes daily labs, notes, and real-world backend deployments.
 
 ## Progress
 - [x] Day 1 : Docket + Kubernetes Basics
-- [ ] Day 2 : Pods & Deployments
-- [ ] ...
+- [x] Day 2 : Pods & Deployments
+- [x] Day 3 : ConfigMaps, Secrets, and env variables demo
